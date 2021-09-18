@@ -8,7 +8,7 @@
     <template #brand>
       <b-navbar-item tag="router-link" :to="{ path: '/' }" class="logo">
         <img
-          src="/koda300x300.svg"
+          src="https://i.imgur.com/n6sVBic.png"
           alt="First NFT market explorer on Kusama and Polkadot"
           class="logo__img"
           width="60"

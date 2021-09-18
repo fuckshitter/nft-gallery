@@ -166,7 +166,7 @@ export default class Gallery extends Vue {
     sortBy: { blockNumber: -1 }
   };
   private first = 12;
-  private placeholder = '/koda300x300.svg';
+  private placeholder = 'https://i.imgur.com/n6sVBic.png';
   private currentValue = 1;
   private total = 0;
 

@@ -77,7 +77,7 @@ export default class GalleryCard extends Vue {
   @Prop() public metadata!: string;
   @Prop() public currentOwner!: string;
 
-  private placeholder = '/koda300x300.svg';
+  private placeholder = 'https://i.imgur.com/n6sVBic.png';
 
   async mounted() {
 
