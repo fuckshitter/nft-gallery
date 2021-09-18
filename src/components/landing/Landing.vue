@@ -230,7 +230,7 @@ export default class Landing extends Vue {
   height: 100%;
 
   @include desktop {
-    background: url('/homepage-bg.jpg') center bottom;
+    background: url('blob:https://imgur.com/d4de1fd5-709c-497d-ac46-309f00f12bb5') center bottom;
     background-repeat: no-repeat;
     background-size: contain;
   }
