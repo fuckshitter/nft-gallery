@@ -243,7 +243,7 @@ export default class Comment extends Mixins(TransactionMixin) {
 
 <style lang="scss">
 .comment-action:hover {
-  color: #db2980 !important;
+  color: #f00 !important;
   cursor: pointer;
 }
 
