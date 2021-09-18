@@ -19,7 +19,7 @@
           <span class="title is-6 homepage__subtitle uppercase text-semibold">
             Built on
             <span class="text-bold text-primary">
-              RMRK Protocol
+              JEW Protocol
             </span>
           </span>
         </h2>
