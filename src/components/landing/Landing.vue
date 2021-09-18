@@ -3,15 +3,15 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title is-1 homepage__title">
-          <span class="text__stroked">Koda</span>
-          <span>Dot</span>
+          <span class="text__stroked">Jew</span>
+          <span>Bot</span>
         </h1>
         <h2 class="title is-1 is-flex is-flex-direction-column uppercase homepage__heading">
           <span>
-            Carbon neutral
+            Jew Positive
           </span>
           <span class="text__stroked">
-            Kusama native
+            JEWBOT native
           </span>
           <span>
             NFT plaftorm
@@ -106,7 +106,7 @@
               </p>
               <p>
                 <span>
-                  Struggling with KodaDot?
+                  Struggling with JEWBOT?
                 </span>
                 <span>
                   Head over to our <a href="/rmrk/faq">FAQ page.</a>
@@ -117,19 +117,19 @@
                   Found issue? Have Feedback?
                 </span>
                 <span>
-                  Create issue on our GitHub.
+                  Create issue on our TELEGRAM.
                 </span>
               </p>
             </div>
           </div>
           <b-button
             tag="a"
-            href="https://github.com/kodadot"
+            href="https://t.me/jewbotbsc"
             target="_blank"
             rel="noopener noreferrer"
             type="is-primary"
           >
-            Kodadot Github
+            JEWBOT TELEGRAM
           </b-button>
         </div>
       </div>
@@ -151,12 +151,12 @@ const components = {
   metaInfo() {
     return {
       meta: [
-        { property: 'og:title', content: 'KodaDot - Kusama NFT Market explorer'},
-        { property: 'og:image', content: 'https://nft.kodadot.xyz/kodadot_carbonless.jpg'},
-        { property: 'og:description', content: 'Low carbon NFT gallery on Kusama'},
-        { property: 'twitter:title', content: 'KodaDot - Kusama NFT Market Explorer' },
-        { property: 'twitter:description', content: 'Low carbon NFT gallery on Kusama'},
-        { property: 'twitter:image', content: 'https://nft.kodadot.xyz/kodadot_carbonless.jpg'},
+        { property: 'og:title', content: 'JEWBOT - JEWBOT NFT Market explorer'},
+        { property: 'og:image', content: 'https://i.imgur.com/LCfi5yu.png'},
+        { property: 'og:description', content: 'JEW POSITIVE NFT gallery on Kusama'},
+        { property: 'twitter:title', content: 'JEWBOT - JEWBOT NFT Market Explorer' },
+        { property: 'twitter:description', content: 'JEW POSITIVE NFT gallery on Kusama'},
+        { property: 'twitter:image', content: 'https://i.imgur.com/LCfi5yu.png'},
       ]
     }
   },
