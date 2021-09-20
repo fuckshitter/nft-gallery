@@ -75,7 +75,7 @@
                   type="is-primary"
                   class="my-5"
                 >
-                <a href="https://medium.com/kodadot/traverse-to-the-prime-show-733d6046d3f5">
+                <a href="https://medium.com/">
                   Read more
                 </a>
                 </b-button>
@@ -94,7 +94,7 @@
                   type="is-primary"
                   class="my-5"
                 >
-                <a href="https://medium.com/kodadot/client-first-nft-gallery-technical-examination-33db09dfdc97">
+                <a href="https://medium.com/">
                   Read more
                 </a>
                 </b-button>

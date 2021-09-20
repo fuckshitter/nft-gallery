@@ -6,13 +6,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 🧫 Culture - where you can read our recent updates
-* [Discord](https://discord.gg/u6ymnbz4PR)
-* [Telegram](https://t.me/kodadot)
-* [Twitter](https://twitter.com/KodaDot)
-* [r/KodaDot](https://www.reddit.com/r/KodaDot/)
+* [Discord](https://discord.gg/)
+* [Telegram](https://t.me/)
+* [Twitter](https://twitter.com/)
+* [r/KodaDot](https://www.reddit.com/r//)
 
 ## 📚 Writings by KodaDot team members
-* [Client-first NFT gallery: Technical examination](https://medium.com/kodadot/client-first-nft-gallery-technical-examination-33db09dfdc97)
+* [Client-first NFT gallery: Technical examination](https://medium.com//client-first-nft-gallery-technical-examination-33db09dfdc97)
 * [How to Embed your NFT on Kusama through KodaDot](https://medium.com/kodadot/how-to-embed-your-nft-on-kusama-through-kodadot-ee52c2384b0d)
 * [Traverse to the prime show](https://medium.com/kodadot/traverse-to-the-prime-show-733d6046d3f5)
 * [The First Multilingual NFT Gallery in Polkadot ecosystem running live on Kusama](https://medium.com/kodadot/the-first-multilingual-nft-gallery-in-polkadot-ecosystem-running-live-on-kusama-b8f7566770be)

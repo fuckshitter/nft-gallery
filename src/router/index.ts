@@ -104,7 +104,7 @@ export default new Router({
       name: 'permafrost',
       component: {},
       beforeEnter(to, from, next) {
-        window.location.href = 'https://discord.gg/88da2MEfU9'
+        window.location.href = 'https://discord.gg/'
       }
     },
 		{

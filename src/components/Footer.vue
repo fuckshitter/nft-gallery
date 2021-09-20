@@ -5,7 +5,7 @@
         <ul class="footer__list icons__list">
           <li class="icons__list-item">
             <a
-              href="https://kodadot.substack.com"
+              href="https://jewbotbsc.com"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -18,7 +18,7 @@
           </li>
           <li class="icons__list-item">
             <a
-              href="https://medium.com/kodadot"
+              href="https://medium.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -32,7 +32,7 @@
           </li>
           <li class="icons__list-item">
             <a
-              href="https://discord.gg/u6ymnbz4PR"
+              href="https://discord.gg/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -46,7 +46,7 @@
           </li>
           <li class="icons__list-item">
             <a
-              href="https://www.youtube.com/channel/UCEULduld5NrqOL49k1KVjoA/"
+              href="https://www.youtube.com/channel/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -60,7 +60,7 @@
           </li>
           <li class="icons__list-item">
             <a
-              href="https://t.me/kodadot"
+              href="https://t.me/jewbotbsc"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -74,7 +74,7 @@
           </li>
           <li class="icons__list-item">
             <a
-              href="https://twitter.com/KodaDot"
+              href="https://twitter.com/jewbotbsc"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -89,7 +89,7 @@
 
           <li class="icons__list-item">
             <a
-              href="https://www.reddit.com/r/KodaDot/"
+              href="https://www.reddit.com/r/"
               target="_blank"
               rel="noopener noreferrer"
             >

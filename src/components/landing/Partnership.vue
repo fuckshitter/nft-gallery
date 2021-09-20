@@ -9,7 +9,7 @@
               Partnership
               </h1><br>
               We will have some partnership here announced, soon.<br>
-              <a href="https://discord.gg/u6ymnbz4PR">If you want to know it sooner, join our Discord</a>
+              <a href="https://discord.gg/">If you want to know it sooner, join our Discord</a>
 
             </div>
           </div>

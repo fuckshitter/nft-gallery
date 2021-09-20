@@ -69,7 +69,7 @@
                 crypto integration with them, so every NFT will consist hash relying on Carbon Credit.
 
                 To drive the vision to home, we are genuinely looking forward to starting with
-                <b><a href="https://yangwao.medium.com/planet-terraformation-forest-as-a-service-94a2633ad011">
+                <b><a href="https://medium.com/">
                 Terraformation of Planet Earth</a></b>
                 where one could participate in fashion to own part of the forest, probably introduce
                 the concept of <b>Forest as a Service</b>. Imagination is the limit.
@@ -99,7 +99,7 @@
                 bought KodaDot Carbon Credits</a></b> and plan to automatize offset them in the future more in sustainabile way.<br>
                 <b>You can read more at <a href="https://offsetra.com/profile/kodadot">KodaDot's profile page at Offsetra</a></b><br><br>
                 Once you minted your <b>carbonless NFT on KodaDot,
-                <u><a href="https://t.me/joinchat/aE-i3mgMAo9lMTU0">you are welcome to join our Carbonless Minting Telegram channel</a> and <a href="https://discord.gg/u6ymnbz4PR">KodaDot Discord</a></u></b>
+                <u><a href="https://t.me/joinchat/aE-i3mgMAo9lMTU0">you are welcome to join our Carbonless Minting Telegram channel</a> and <a href="https://discord.gg/">KodaDot Discord</a></u></b>
               </p><br>
               <h1 class="title is-4">
                 Reading list

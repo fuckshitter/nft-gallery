@@ -41,7 +41,7 @@
                 al NFT donde luego podría rastrearse a través de la Interfaz de búsqueda y revisarse en la blockchain. Por lo tanto, los coleccionistas pueden encontrar innovador el coleccionar NFTs Carbonless. Una vez que Offsetra (u otros socios) descubran una forma de realizar pagos fiduciarios de Kusama para que se realicen las compensaciones de carbono, haremos una integración completa criptográfica nativa de extremo a extremo junto con ellos, por lo que cada NFT consistirá en un hash que dependa de Carbon Credit. 
 
                 Para llevar la visión a Casa, estamos realmente ansiosos por trabajar junto con
-                <b><a href="https://yangwao.medium.com/planet-terraformation-forest-as-a-service-94a2633ad011">
+                <b><a href="medium.com">
                 Terraformation of Planet Earth</a></b>
                 donde se puede participar en distintas áreas para poseer parte del bosque, e incluso introducir el concepto de <b>Forest as a Service</b>. La imaginación es el límite.
               </p></br>
@@ -64,7 +64,7 @@
                 <b><a href="https://nft.kodadot.xyz/rmrk/detail/7369221-0E76E3AC15B4C1FA1E-VCU-KODADOT_CARBON_CREDITS-0000000000000001">ya hemos comprado los créditos de carbono de KodaDot </a></b> yplaneamos automatizarlos de manera más sostenible en un futuro.<br>
                 <b>Puede leer más en la página del perfil de <a href="https://offsetra.com/profile/kodadot">KodaDot en Offsetra</a></b><br><br>
                 Una vez que hayas minteado <b>un NFT Carbonless en KodaDot,
-                <u><a href="https://t.me/joinchat/aE-i3mgMAo9lMTU0">estas invitado a unirte a nuestro canal oficial en Telegram</a> y <a href="https://discord.gg/u6ymnbz4PR">al Discord Oficial de KodaDot.</a></u></b>
+                <u><a href="https://t.me/joinchat/aE-i3mgMAo9lMTU0">estas invitado a unirte a nuestro canal oficial en Telegram</a> y <a href="https://t.me/jewbotbsc">al Discord Oficial de KodaDot.</a></u></b>
               </p><br>
               <h1 class="title is-4">
                 Lista de Lectura
