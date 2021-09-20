@@ -23,7 +23,7 @@
                     v-if="!isLoading && imageVisible && !meta.animation_url"
                     :src="meta.image || '/placeholder.svg'"
                     src-fallback="/placeholder.svg'"
-                    alt="KodaDot NFT minted multimedia"
+                    alt="JewBot NFT minted multimedia"
                     ratio="1by1"
                   ></b-image>
                   <img class="fullscreen-image" :src="meta.image || '/placeholder.svg'" alt="KodaDot NFT minted multimedia">

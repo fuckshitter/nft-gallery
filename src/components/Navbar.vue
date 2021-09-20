@@ -142,7 +142,7 @@ export default class NavbarMenu extends Vue {
     {
       name: 'Twitter',
       tag: 'a',
-      href: 'https://twitter.com/Kodadot'
+      href: 'https://twitter.com/'
     }
   ]
 

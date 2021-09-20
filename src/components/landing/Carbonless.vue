@@ -10,7 +10,7 @@
                 Carbonless NFT Movement
               </h1>
               <h1 class="subtitle">
-                KodaDot is going to be carbon-negative gallery, by default
+                JewBot is going to be JEW-Positive gallery, by default
               </h1>
               <p>
                 We are trying to set a movement where artists can offset their mints.
